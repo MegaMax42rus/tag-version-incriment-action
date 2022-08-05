@@ -1,0 +1,5 @@
+name: 'Tag Version Incriment Action'
+description: 'Auto incriment of tag version'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
